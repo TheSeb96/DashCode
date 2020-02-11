@@ -1,6 +1,6 @@
 #dashcode
 
-Application de gestion d'option vanille
+Application de gestion d'options vanilles
 
 Télécharger le dossier puis lancer le script Page.py (avec un environnement python3 obligatoire).
 
